@@ -20,8 +20,8 @@ Created by Sami-ul
 
 Oftentimes smaller countries are excluded from the media as other events supercede them in impact. As a result people end up not knowing much about these smaller countries who are going through big changes and issues on their own. To combat this, I created this news application which encourages users to search through many countries to read the news about. This allows users to stay informed. It also attempts to create a summary by scraping the text from these news sites. I aim to publish this site in the future.
 
-![](repoAssets\mainPage.png)
-![](repoAssets\searchPage.png)
+![](repoAssets/mainPage.png)
+![](repoAssets/searchPage.png)
 ## Info
 - This application allows users to search for news by each country
 - Users can also recieve a summary of each article pulled
