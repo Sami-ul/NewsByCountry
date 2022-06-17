@@ -10,9 +10,11 @@
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white
 )
 
-![mailto:ahmed.samiul.h@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ![](https://licensebuttons.net/l/zero/1.0/80x15.png)
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+You can contact me here: waliul.sami.ahmed@gmail.com
 # NewsByCountry
 Created by Sami-ul
 
