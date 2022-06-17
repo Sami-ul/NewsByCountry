@@ -12,7 +12,7 @@ router.get('/summary', (req, res) => {
   res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
   res.setHeader('Access-Control-Allow-Credentials', true); 
   var link = req.query["link"];
-  request(`http://192.168.0.60:8080/summary?link=${link}`, {json: true}, (err, response, body) => {
+  request(`http://localhost:8080/summary?link=${link}`, {json: true}, (err, response, body) => {
     // Get summary from python api
     if (err) {
         res.send(err);
