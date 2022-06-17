@@ -29,4 +29,4 @@ def getNewsSummary() -> str:
     except:
         return {"summary": "Could not summarize this article"}
 
-app.run(host='0.0.0.0', port=8080)
+app.run(host='localhost', port=8080)
