@@ -31,7 +31,9 @@ Oftentimes smaller countries are excluded from the media as other events superce
 
 ## Setup
 - Make sure you have the following tools installed
-    - Python, NodeJS, Flutter
+    - Python
+    - NodeJS
+    - Flutter
 - In your command prompt, navigate to the same folder that this readme is located in and type `./setup_packages` and press enter
     - This bat file will run all the necessary packaging operations for this app, it may take up to 2 minutes
     - You only need to do this once
