@@ -1,4 +1,14 @@
-![](https://camo.githubusercontent.com/094815ab818297cb3d88e9e06d9bbe1d58d975b46aca2f13217f3771b6c6b676/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c7867722d6c696e75782f706f6b657465)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+)
+
+![mailto:ahmed.samiul.h@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![](https://licensebuttons.net/l/zero/1.0/80x15.png)
 # NewsByCountry
 Created by Sami-ul
 
