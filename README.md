@@ -30,6 +30,7 @@ Oftentimes smaller countries are excluded from the media as other events superce
 - Clicking on a list object leads you to the webpage where the article is
 
 ## Setup
+- The build folder in flutter has been gitignored, it should automatically recreate it when building with the flutter command, create an issue if not
 - Make sure you have the following tools installed
     - Python
     - NodeJS
