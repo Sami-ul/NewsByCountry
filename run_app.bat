@@ -10,3 +10,4 @@ cd..
 cd webapp
 cd newsapp 
 start /B flutter run -d Chrome --release
+echo THE SUMMARIES WILL NOT SHOW IF FLUTTER LOADS BEFORE SUMMARIZATIONAPI
