@@ -33,6 +33,7 @@ Oftentimes smaller countries are excluded from the media as other events superce
 - The build folder in flutter has been gitignored, it should automatically recreate it when building with the flutter command, create an issue if not
 - Make sure you have the following tools installed
     - Python
+    - Poetry
     - NodeJS
     - Flutter
 - In your command prompt, navigate to the same folder that this readme is located in and type `./setup_packages` and press enter
