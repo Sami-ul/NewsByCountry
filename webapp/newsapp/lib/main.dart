@@ -65,26 +65,14 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-  }
-
-  @override
   Widget build(BuildContext context) {
-    // This method is rerun every time setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //
-    // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
-    // than having to individually change instances of widgets.
     return Scaffold(
         body: FutureBuilder(
           builder: DataSearch()._futureBuildResults,
           future: DataSearch()._getNews("", 20),
         ),
         appBar: AppBar(
-          title: Text("News"),
+          title: Text("News by Country"),
           actions: <Widget>[
             IconButton(
               icon: const Icon(Icons.search),
@@ -345,7 +333,7 @@ class DataSearch extends SearchDelegate<String> {
     var url;
     if (country.length == 0) {
       // For default loading on main page
-      url = "http://localhost:3535/news?len=$len&time=3d&outlet=apnews";
+      url = "http://localhost:3535/news?len=$len&time=3d&searchTerm=politics";
     } else {
       // for loading with a country specified
       url = "http://localhost:3535/news?len=$len&searchTerm=$country&time=3d";
@@ -412,7 +400,7 @@ class DataSearch extends SearchDelegate<String> {
     } else if (snapshot.hasError) {
       return Text(snapshot.error.toString());
     } else {
-      return CircularProgressIndicator.adaptive();
+      return Center(child: CircularProgressIndicator.adaptive());
     }
   }
 

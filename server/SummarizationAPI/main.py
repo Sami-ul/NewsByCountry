@@ -24,7 +24,7 @@ def getNewsSummary() -> str:
         article = Article(link)
         article.download()
         article.parse()
-        result = summarizer.summarizer(article.text, 5, link)
+        result = summarizer.summarizer(article.text, 3, link)
         return {"summary": result}
     except:
         return {"summary": "Could not summarize this article"}
