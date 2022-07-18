@@ -15,7 +15,9 @@
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 You can contact me here: waliul.sami.ahmed@gmail.com
+
 <img src="repoAssets/earth.png" alt="drawing" width="200"/>
+
 # NewsByCountry
 
 Created by Sami-ul
