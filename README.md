@@ -15,7 +15,9 @@
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 You can contact me here: waliul.sami.ahmed@gmail.com
+<img src="repoAssets/earth.png" alt="drawing" width="200"/>
 # NewsByCountry
+
 Created by Sami-ul
 
 Oftentimes smaller countries are excluded from the media as other events supercede them in impact. As a result people end up not knowing much about these smaller countries who are going through big changes and issues on their own. To combat this, I created this news application which encourages users to search through many countries to read the news about. This allows users to stay informed. It also attempts to create a summary by scraping the text from these news sites. I aim to publish this site in the future.
