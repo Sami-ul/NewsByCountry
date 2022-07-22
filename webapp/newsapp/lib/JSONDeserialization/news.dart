@@ -21,10 +21,10 @@ class News {
   }
 
   Map<String, dynamic> toJson() {
-    final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['date'] = this.date;
-    data['link'] = this.link;
-    data['title'] = this.title;
+    final Map<String, dynamic> data = <String, dynamic>{};
+    data['date'] = date;
+    data['link'] = link;
+    data['title'] = title;
     return data;
   }
 }

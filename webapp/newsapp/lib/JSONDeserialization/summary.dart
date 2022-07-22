@@ -11,8 +11,8 @@ class Summary {
   }
 
   Map<String, dynamic> toJson() {
-    final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['summary'] = this.summary;
+    final Map<String, dynamic> data = <String, dynamic>{};
+    data['summary'] = summary;
     return data;
   }
 }
