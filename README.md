@@ -26,6 +26,7 @@ Oftentimes smaller countries are excluded from the media as other events superce
 
 ![](repoAssets/mainPage.png)
 ![](repoAssets/searchPage.png)
+![](repoAssets/resultsPage.png)
 ## Info
 - This application allows users to search for news by each country
 - Users can also recieve a summary of each article pulled
