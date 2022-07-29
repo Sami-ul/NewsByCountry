@@ -14,7 +14,7 @@
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-You can contact me here: waliul.sami.ahmed@gmail.com
+You can contact me here: ahmed.samiul.h@gmail.com
 
 <img src="repoAssets/earth.png" alt="drawing" width="200"/>
 
